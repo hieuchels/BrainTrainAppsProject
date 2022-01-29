@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Auth.unity
+    guid: b82468e8381d75a4883fcd2a4fd85763
+  - enabled: 1
+    path: Assets/Scenes/Math.unity
+    guid: 76bf4e33703cd8247b67a646a702438a
+  - enabled: 1
+    path: Assets/Scenes/Memory.unity
+    guid: ab73cf9866947a44083101e3a2110d49
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0de84f2ac3c243b49a39a7f60a109ecf
+  - enabled: 1
+    path: Assets/Scenes/Word.unity
+    guid: 58d6b68e28cf20346a93917bebd65edd
+  - enabled: 1
+    path: Assets/Scenes/Scoreboard.unity
+    guid: a2f7004a844d2ce45beaa3f2fe0ecbcb
+  - enabled: 1
+    path: Assets/Scenes/Shape.unity
+    guid: 9a52965e4ba9d1c4e838e2dd1b80da42
+  m_configObjects: {}
